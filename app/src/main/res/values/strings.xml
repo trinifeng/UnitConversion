@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unit Conversion</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_a_number_to_convert">Enter a Number to Convert</string>
+    <string name="pounds_to_usd">Pounds to USD</string>
+    <string name="usd_to_pounds">USD to pounds</string>
+    <string name="convert">convert</string>
+    <string name="result">Result</string>
+    <string name="go_back">GO BACK</string>
+</resources>
